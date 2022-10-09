@@ -1,0 +1,6 @@
+build/
+generated/
+*.graphql
+*.yaml
+*.yml
+*.md

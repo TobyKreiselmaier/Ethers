@@ -1,0 +1,17 @@
+{
+  "name": "etherstutorial",
+  "version": "1.0.0",
+  "description": "Playing with Ethers",
+  "main": "index.js",
+  "repository": "https://github.com/TobyKreiselmaier/Ethers",
+  "author": "Toby K <the.rainmaker@mail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "lint": "prettier --write ."
+  },
+  "devDependencies": {
+    "ethers": "5.7.1",
+    "prettier": "2.7.1"
+  }
+}
